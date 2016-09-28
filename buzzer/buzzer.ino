@@ -23,5 +23,5 @@ digitalWrite(buzzer,LOW);//不發聲音
 delay(2);//延時2ms 
 } 
 } 
-} 
+}
 
